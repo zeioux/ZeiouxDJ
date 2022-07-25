@@ -2,6 +2,7 @@
 
 ### Dependencies
 
+npm init
 npm install discord.js
 
 ### Commands
